@@ -1,135 +1,136 @@
-<a href="https://github.com/drshahizan/learn-cloud/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-cloud" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-cloud" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-cloud" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-cloud" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-cloud?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
+<a href="https://github.com/drshahizan/learn-github/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-github" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-github" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-github" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-github" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
 
-# Research Colloquium Series 1: Best practices' for using the cloud in research
-You will learn:
+# Github Education
+GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](./materials/education)
 
-✅️ How to set up a cloud environment for research purposes. 
+## Git and GitHub
+Git and GitHub are an essential part of the developer roadmap, particularly for those interested in software development or web development. Git is a version control system that allows developers to track changes in their codebase over time, collaborate with others, and revert changes if necessary. GitHub, on the other hand, is a web-based hosting service that uses Git for version control.
 
-✅️ How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
+In the developer roadmap, learners are typically introduced to Git and GitHub early on as a foundational skill. They are taught how to set up a Git repository, make commits, and push changes to a remote repository on GitHub. They may also learn about basic Git commands like branching, merging, and rebasing.
 
-Please ensure that you already have a Github account. 
+As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
-### Contents:
-- [Book](#book)
-- [Github Profile](#github-profile-)
-- [Tools](#tools)
-- [Articles](#articles-)
-- [Tutorials](#tutorials-)
-- [Google Colab](#google-colab-)
+<p align="center">
+<img src="images/Github-EN.jpg"  height="400" />
+</p>
 
-## Book
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [Git tutorial](https://git-scm.com/docs/gittutorial)
+## Developer Roadmaps
+[Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
+
+The website was created to help people who are just starting out in technology or who are looking to switch careers within the industry. The roadmaps are designed to be flexible and customizable, so users can choose their own learning paths and set their own goals.
+
+In addition to the roadmaps, the website also includes resources such as books, online courses, and tools to help learners on their journey. The community aspect of the website allows users to connect with others who are also learning and share tips and resources.
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend)
+- [Flutter Developer](https://roadmap.sh/flutter)
+
+## :large_orange_diamond: [Git](/materials/git-intro.md)
+Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
+
+With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
+
+One of the main benefits of using Git is its ability to track changes and roll back to previous versions if needed. This is particularly useful when bugs are introduced or when a new feature causes unintended consequences. Git also allows developers to review and comment on each other's code changes, making it easier to catch errors and maintain quality control.
+
+Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
+
+Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**[More info...]**](/materials/git-intro.md)
+
+## :octocat: [GitHub](/materials/github-intro.md)
+GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
+
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
+</p>
+
+GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
+
+1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
+
+2. **Pull requests**: GitHub's pull request feature allows developers to review and discuss code changes before they are merged into the main codebase. This can help ensure that code changes are of high quality and don't introduce bugs or conflicts.
+
+3. **Issues**: GitHub's issue tracking system allows developers to create and track bugs, feature requests, and other issues related to a project. Issues can be assigned to specific developers, labeled, and prioritized to help manage the development process.
+
+4. **Collaboration**: GitHub provides a range of tools to help developers collaborate on projects, including commenting on code, reviewing pull requests, and collaborating on code changes using branches and forks.
+
+5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
+
+GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
+
+- [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
+
+[**[More info...]**](/materials/github-intro.md)
 
 ## Github Profile 👋
-1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-2. [mishmanners](https://github.com/mishmanners)
-3. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
-4. [m0nica](https://github.com/m0nica)
-5. [katiehuangx](https://github.com/katiehuangx)
-6. [sharkawy98](https://github.com/sharkawy98)
+A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
-## Tools✨
-- [StackEdit](https://stackedit.io/app#)
-- [Dillinger](https://dillinger.io/)
-- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-- [GitHub Skills](https://skills.github.com/)
-- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [Awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
-- [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
-- [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
-- [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
-- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
-- [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
-- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
-- [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
-- [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
-- [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
-- [Current UTC time](https://github.com/jojoee/jojoee) - Example code of server that can serve dynamic content on GitHub profile
-- [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) - Updates `README.md` with the recent GitHub activity of a user
-- [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
-- [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
-- [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
-- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
-- [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
-- [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
-- [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
-- [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
-- [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
-- [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium) - Show your latest Medium article on your readmes!
-- [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
-- [StackOverflow Stats Badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this Unique StackOverflow Badge!
-- [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
-- [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
-- [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
-- [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
-- [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
-- [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
-- [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
-- [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
-- [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
-- [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
-- [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
-- [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+The main focus of a GitHub profile is the user's repositories. Repositories are collections of files that contain a project or a portion of a project. On a GitHub profile, users can showcase their repositories, which can be sorted by type (public or private), language, and date. Each repository includes information such as the name, description, number of stars (a measure of popularity), and the number of forks (when someone makes a copy of the repository to make their own changes).
+
+GitHub profiles also include information on a user's contributions to open source projects. GitHub tracks contributions such as pull requests (code changes that are proposed for review and merging into a project), issues (problem reports or feature requests), and comments.
+
+Another important aspect of a GitHub profile is the user's activity feed. This shows a chronological list of the user's recent activity on the platform, such as repositories they have starred or issues they have commented on.
+
+GitHub profiles are a great way for developers to showcase their skills and projects to potential employers or collaborators. By maintaining an active and well-curated profile, developers can establish themselves as experts in their field and attract new opportunities.
+
+### Sample
+
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 My students |
+|:---|
+| 1. [Qaisara](https://github.com/qaisarrra) <br> 2. [Low Junyi](https://github.com/LowJunyi2001) <br> 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 4. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 5. [Hong Pei Geok](https://github.com/peiyu00) <br> 6. [El Insyiraah](https://github.com/elleamyr) <br> 7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 8. [Charlene A](https://github.com/Chikoness) <br> 9. [Neo Zheng Weng](https://github.com/zw-weng) <br> 10. [Wan Nur Sofea](https://github.com/wannursofea)<br> 11. [Camily Tang](https://github.com/camilytang)<br> 12. [Ng Shu Yu](https://github.com/ShuYu03) |
+
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
+|:---|
+| 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
+
+<details>
+  <summary id="tools"> <b>Tools</b></summary>
+
+1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [GPRM](https://gprm.itsvg.in/)
+3. [Profilinator](https://profilinator.rishav.dev/)
+4. [Arturs Smirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
+</details>
+
+
+## Github Pages
+GitHub Pages is a web hosting service provided by GitHub that allows users to create and host static websites directly from their GitHub repositories. With GitHub Pages, users can publish websites for personal or project use, including blogs, portfolios, and documentation. Users can choose to host their site on a custom domain or a GitHub-provided subdomain, and can create and edit their site using a variety of tools and languages, including HTML, CSS, and JavaScript. GitHub Pages is a powerful and easy-to-use tool for creating and hosting websites, and is a popular choice for developers, designers, and individuals looking to build an online presence.
+
+- [Learn GitHub Pages](./materials/pages.md)
+- [GitHub Pages](https://pages.github.com/)
+- [Youtube - Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
+- [Youtube - Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
+- [GitHub Pages examples](https://github.com/collections/github-pages-examples)
+
+## Github Projects
+GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
+
+When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/projects)
+
+## Github Codespaces
+GitHub Codespaces is a cloud-based development environment that allows developers to create, customize, and use a fully-functional development environment in the cloud. With Codespaces, developers can quickly and easily set up a development environment for their projects, without the need to install software on their local machines. They can access their codespaces from anywhere, collaborate with their team members in real-time, and deploy their applications to production. Codespaces support a wide range of programming languages and tools, including PHP, and provide a powerful and flexible platform for building, testing, and deploying web applications. [**[More info...]**](./materials/education/codespace.md)
+
+## Tools and useful links
+Various tools and useful links for developers, particularly those using Git and GitHub. Some of the tools mentioned include StackEdit and Dillinger for editing and formatting Markdown documents, GitHub Skills for learning and improving Git and GitHub skills, and Awesome README Tools for creating more engaging and informative README files for projects. There are also links to various resources for tracking project statistics, including Todoist Stats in Readme, Github Readme Stats, and Github Contributor Stats. Additionally, there are tools for creating visitor badges, profile activity generators, and more. Overall, these tools and resources can help developers to be more productive and make their projects more accessible and engaging for users.
+[**[More info...]**](./materials/tools.md)
 
 ## Articles 📖
-- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-- [GitHub Skills](https://skills.github.com/)
-- [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- [Coursera: Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?action=enroll)
-- [Microsoft Learning: Github](https://learn.microsoft.com/en-us/training/github/)
-- ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
-- ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
-- ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
-- ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
-- ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
-- ["How to create an awesome GIF for your GitHub Profile README"](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n) - *Satvik Chachra*
-- ["Create a special repository in your GitHub Profile 🔨, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
-- ["How to create a Github Profile README with Dynamic Github Stats"](https://codewithghazi.com/how-to-create-a-github-profile-readme-with-dynamic-github-stats/) - *Ghazi Khan*
-- ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
-- ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
-- ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
-- ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
-- ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
-- ["Show your latest dev.to posts automatically on your GitHub profile readme"](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)  - *Gautam krishna R*
-- ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://github.com/RaoHai/RaoHai/blob/master/How-I-Built-A-Self-Updating-README-by-Webhooks-and-Netlify-Functions.md/) - *Rao Hai*
-- ["Build a Stunning README For Your GitHub Profile"](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) - *Martin Heinz*
-- ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
-- ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
-- ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
-- ["一文玩转github主页"](https://blog.holic-x.com/wv-blog/post/7ad96a5d.html) - *holic-x*
+This is a list of various articles related to Git and GitHub, particularly for beginners who want to learn more about these tools and how to use them effectively. Some of the articles provide introductions to Git and GitHub, such as the "Intro to Git and GitHub for Beginners" tutorial on Coursera and Microsoft Learning's "Github" course. Other articles focus on more specific aspects of using GitHub, such as creating a GitHub Profile README, adding dynamic stats to a README, or creating interactive READMEs. Additionally, some articles explore more advanced topics like self-updating READMEs using webhooks and Netlify functions. Overall, these articles offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/article.md)
 
 ## Tutorials 🎥
-- [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
-- [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
-- [How to Use GitHub](https://youtu.be/v_1iqtOnUMg)
-- [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo)
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
-- ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
-- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
-
-## Google Colab✍️
-1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
-2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
-3. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
+Various tutorial videos related to Git and GitHub. These tutorials are aimed at beginners who are new to using these tools and want to learn the basics. Some of the videos provide introductions to Git and GitHub, such as "What is GitHub?" and "How to Use GitHub." Others focus on specific aspects of using GitHub, such as creating a GitHub portfolio or profile README. Additionally, some videos explore more advanced topics like advanced Git techniques and shortcuts. Overall, these tutorial videos offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/tutorial.md)
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
